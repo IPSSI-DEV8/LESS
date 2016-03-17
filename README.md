@@ -1,6 +1,4 @@
-# LESS
-
-[LESS](http://lesscss.org)
+# [LESS](http://lesscss.org)
 
 LESS est un langage dynamique de génération de feuilles de style conçu par Alexis Sellier. Il est influencé par Sass et a influencé "SCSS" (la syntaxe plus récente de Sass) : la syntaxe de LESS est plus proche de CSS et un code CSS est aussi un code LESS valide qui a la même sémantique.
 
