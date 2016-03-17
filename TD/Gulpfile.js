@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
   less = require('gulp-less'),
-  rename = require('gulp-rename');
+  rename = require('gulp-rename'),
   connect = require('gulp-connect');
 var minifycss = require('gulp-minify-css');
  
