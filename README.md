@@ -14,7 +14,7 @@ LESS est un langage dynamique de génération de feuilles de style conçu par Al
 
 `npm install`
 
-### Lancement du projet avec gulp (Un outil d'automatisation des tâches)
+### Lancement du projet avec gulp (outil d'automatisation des tâches)
 
 `gulp`
 
