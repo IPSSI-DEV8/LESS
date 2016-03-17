@@ -8,7 +8,7 @@ LESS est un langage dynamique de génération de feuilles de style conçu par Al
 
 `git clone https://github.com/IPSSI-DEV8/LESS.git`
 
-`cd LESS/TP`
+`cd LESS/TD`
 
 ### Installation des modules NodeJs
 
